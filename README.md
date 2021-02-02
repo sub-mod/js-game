@@ -1,1 +1,4 @@
 # js-game
+
+
+credits: pendensproditor
